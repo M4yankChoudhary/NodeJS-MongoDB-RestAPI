@@ -1,9 +1,11 @@
+![nodejs](./header.png)
+
 # NodeJS-MongoDB-RestAPI
 
 ## This is a simple example of a RestAPI created using NodeJS and MongoDB.
 
 
-![linux tux](./header.png)
+
 
 # How to:
 
