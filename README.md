@@ -10,4 +10,5 @@
 # How to:
 
 1. run `npm install` command inside the root directory.
-2. run `npm start`  enjoy!
+2. setup database https://git.io/J3PHU
+3. run `npm start`  enjoy!
